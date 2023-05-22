@@ -106,7 +106,8 @@ body {
     column-gap: 30px;
   }
 
-  /* .box1,
+  .box1,
   .box4 {
-  } */
+    align-self: center;
+  }
 }
